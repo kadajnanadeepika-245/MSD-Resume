@@ -3,7 +3,7 @@ This is a responsive personal resume website built using only **HTML** and **CSS
 
 ## 🚀 Live Demo
 
-[Click here to view the live demo]()
+[Click here to view the live demo](https://deepikaresume4245.netlify.app/)
 ## 🛠️ Tech Stack
 
 - HTML5  
